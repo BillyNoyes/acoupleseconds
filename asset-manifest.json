@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/acoupleseconds/static/css/main.5f361e03.chunk.css",
+    "main.js": "/acoupleseconds/static/js/main.e39b59ea.chunk.js",
+    "main.js.map": "/acoupleseconds/static/js/main.e39b59ea.chunk.js.map",
+    "runtime-main.js": "/acoupleseconds/static/js/runtime-main.fc751038.js",
+    "runtime-main.js.map": "/acoupleseconds/static/js/runtime-main.fc751038.js.map",
+    "static/js/2.976b8d33.chunk.js": "/acoupleseconds/static/js/2.976b8d33.chunk.js",
+    "static/js/2.976b8d33.chunk.js.map": "/acoupleseconds/static/js/2.976b8d33.chunk.js.map",
+    "index.html": "/acoupleseconds/index.html",
+    "precache-manifest.ee7a2ed0a292ac66c5f894ecab745b4b.js": "/acoupleseconds/precache-manifest.ee7a2ed0a292ac66c5f894ecab745b4b.js",
+    "service-worker.js": "/acoupleseconds/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/acoupleseconds/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.976b8d33.chunk.js.LICENSE.txt": "/acoupleseconds/static/js/2.976b8d33.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/acoupleseconds/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc751038.js",
+    "static/js/2.976b8d33.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e39b59ea.chunk.js"
+  ]
+}
