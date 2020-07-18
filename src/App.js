@@ -11,7 +11,6 @@ class App extends React.Component {
       <body>
         {/* <Themechanger /> */}
         {/* <Repetitions /> */}
-        <Centerbutton />
         <Timer />
       </body>
     );

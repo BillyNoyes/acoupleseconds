@@ -75,7 +75,7 @@ class Timer extends React.Component {
     const { seconds, stage, repetition } = this.state;
     return (
       <div>
-        <Centerbutton startTimer={this.startTimer} />
+        <Centerbutton startTimer={() => this.startTimer()} />
         <h1>{repetition}</h1>
         <h1>{seconds}</h1>
       </div>
